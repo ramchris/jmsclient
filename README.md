@@ -1,2 +1,2 @@
 # jmsclient
-Assessment
+Please run MessageQueue.java program
